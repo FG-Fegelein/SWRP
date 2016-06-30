@@ -1,5 +1,5 @@
-FACTION.name = "fCptName"
-FACTION.desc = ""
+FACTION.name = "Captain"
+FACTION.desc = "Captain of an First Order Outpost"
 FACTION.color = Color(255, 255, 0)
 FACTION.isDefault = false
 FACTION.models = {
